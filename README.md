@@ -1,4 +1,4 @@
-# Template-jupyter-sample
+# Template-Jupyter-Sample
 
 ## 설명
 - 분석 템플릿에서 사용 되는 logic을 이용하여 jupyter 에서 바로 확인할 수 있는 예시 입니다  
@@ -6,10 +6,14 @@
 ## requirement
 > 현 jupyter 환경에는 아래와 같은 module 이 설치되어 있다는 존재하에 동작합니다
 ```python
+colorutils
 pandas
 konlpy
 nltk
+numpy
+openpyxl
 shapely
+scikit-learn
 geom
 textrank
 Mecab
